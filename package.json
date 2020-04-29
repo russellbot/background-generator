@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "background color generator for CSS",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russellbot/background-generator.git"
+  },
+  "author": "Russell Hart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russellbot/background-generator/issues"
+  },
+  "homepage": "https://github.com/russellbot/background-generator#readme"
+}
